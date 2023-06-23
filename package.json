@@ -1,0 +1,15 @@
+{
+  "name": "canvas",
+  "version": "0.0.1",
+  "description": "Maps skia-canvas implementation to node-canvas JS API",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Brett Wilkins <brett.wilkins@smartsheet.com>",
+  "license": "ISC",
+  "dependencies": {
+    "skia-canvas": "^1.0.1"
+  }
+}
