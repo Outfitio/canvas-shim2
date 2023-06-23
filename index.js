@@ -4,7 +4,7 @@ const Canvas = {
   ...skiaCanvas,
   Image,
   createCanvas(width, height) {
-    return new Canvas(width, height);
+    return new skiaCanvas(width, height);
   }
 };
 
